@@ -7,14 +7,11 @@ yarn.lock
 
 reports/
 db/*.db
-.keep
-
-analysis_cache
-
 
 *.zip
 *.numbers
 *.data
-
+*.xlsx
+*.csv
 
 
