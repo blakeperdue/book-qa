@@ -1,0 +1,19 @@
+{
+  "name": "book-qa",
+  "version": "1.0.0",
+  "description": "QA results for CoachMe",
+  "main": "app/main.rb",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeperdue/book-qa.git"
+  },
+  "author": "Blake Perdue",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/blakeperdue/book-qa/issues"
+  },
+  "homepage": "https://github.com/blakeperdue/book-qa#readme"
+}
