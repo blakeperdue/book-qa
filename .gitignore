@@ -5,11 +5,9 @@ node_modules
 yarn.lock
 .DS_Store
 
-lists/
-sql/tmp/
-exports/
+reports/
 db/*.db
-sql/*/tmp/
+.keep
 
 analysis_cache
 
